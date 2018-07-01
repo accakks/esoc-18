@@ -29,7 +29,7 @@ This repository contains `docs + issue tracker` for ESoC 18
 |[Desktop](https://github.com/frappe/esoc-18/Projects/DESKTOP.md)|[Japleen](https://), [Zameer](https://), [Neel](https://)| |
 |[Point of Sale](https://github.com/frappe/esoc-18/Projects/POS.md)|[Chirag](https://), [Jainam](https://), [Karan](https://)| |
 |[Accounting + Inventory + CRM](https://github.com/frappe/esoc-18/Projects/ACCOUNTING.md)|[Krisha](https://), [Sayantika](https://), [Jaffery](https://), [Pratul](https://)| |
-|[Web RTC + Data Sync](https://github.com/frappe/esoc-18/Projects/WebRTC.md)|[Shaily](https://), [Parth](https://), [Anto](https://)| |
+|[Web RTC + Data Sync](https://github.com/frappe/esoc-18/Projects/WebRTC.md)|[Shaily](https://github.com/shailysangwan), [Parth](https://github.com/Parth-Vader), [Anto](https://github.com/anto-christo) |  [Faris](https://github.com/netchampfaris) |
 |[Email](https://github.com/frappe/esoc-18/Projects/EMAIL.md)|[Aakanksha](https://github.com/accakks), [Nishchith](https://github.com/inishchith), [Tarun](https://github.com/meets2tarun) | [Suraj](https://github.com/surajshetty3416) |
 
 
