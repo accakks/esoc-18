@@ -6,7 +6,7 @@
 
 **Project Description** : Inventory Management, GST Reports, More Features
 
-**Working Repository** : [Accounting](https://github.com/frappe/accounting)
+**Working Repository** : [Accounting](https://github.com/jaffrey98/accounting)
 
 ## Milestone 1
 * Create _Unit of Measure_ model with conversion table in _Item_ model
