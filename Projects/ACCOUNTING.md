@@ -1,15 +1,17 @@
 # Accounting + Inventory + CRM
 
-**Team** : 
+**Team** : [Krisha](https://github.com/krishamehta), [Sayantika](https://github.com/sayantikabanik), [Jaffrey](https://github.com/jaffrey98), [Pratul](https://github.com/Pratul1997)
 
-**Mentor** : 
+**Mentor** : [Faris](https://github.com/netchampfaris)
 
-**Project Description** : Reports, GST Reports, More Features
+**Project Description** : Inventory Management, GST Reports, More Features
 
-**Working Repository** : [](https://)
+**Working Repository** : [Accounting](https://github.com/jaffrey98/accounting)
 
 ## Milestone 1
-*
+* Create _Unit of Measure_ model with conversion table in _Item_ model
+* Create _Warehouse_ model (tree)
+* Create _Stock Entry_ model
 
 
 ## Milestone 2
